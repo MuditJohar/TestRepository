@@ -1,2 +1,2 @@
 # TestRepository
-Test repository for WANIC VGP first commit
+Test repository for WANIC VGP first comit
